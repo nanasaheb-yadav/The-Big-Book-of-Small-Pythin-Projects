@@ -1,4 +1,5 @@
 """
+Book Name: The Big Book of Small Pythin Projects
 Description:
 In Bagels, a deductive logic game, you
 must guess a secret three-digit number
